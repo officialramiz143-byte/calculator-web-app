@@ -1,2 +1,15 @@
-# calculator-web-app
-A fully functional calculator web application designed with a responsive UI and built using core web technologies including HTML, CSS, and JavaScript.
+# Calculator Web App
+
+A modern and responsive calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Responsive UI
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
